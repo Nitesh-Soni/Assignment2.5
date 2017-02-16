@@ -35,8 +35,7 @@ In an equipment rack filled with servers, a special cooling system is necessary 
 many power-dissipating components are confined in a small space.
 
 Rack Awareness:
-
-	Rack awareness is having the knowledge of Cluster topology or more specifically how the different data nodes are distributed across the racks of a Hadoop cluster. 
+		Rack awareness is having the knowledge of Cluster topology or more specifically how the different data nodes are distributed across the racks of a Hadoop cluster. 
 The importance of this knowledge relies on this assumption that collocated data nodes inside a specific rack will have more bandwidth and less latency whereas two data nodes 
 in separate racks will have comparatively less bandwidth and higher latency.
 
